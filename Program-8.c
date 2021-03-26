@@ -12,4 +12,3 @@ int main()
     printf("y = %d  ",y=x--); // correct the code 
     return 0;
 }
-
